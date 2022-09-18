@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="changeBackground">change background</string>
+    <string name="textToSpeech">text to speech</string>
+    <string name="apiVersion">api version</string>
+    <string name="serialNumber">serial number</string>
+
+    <string name="speechHint">Please enter some text</string>
+    <string name="speechSpeakBtn">Speak</string>
+    <string name="speechBackBtn">Back</string>
+
+</resources>
